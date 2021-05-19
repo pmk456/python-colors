@@ -13,6 +13,12 @@ THIS ONLY WORKS IN LINUX TERMINAL AND DIDN'T WORK IN CMD OR POWERSHELL IN WINDOW
 sudo apt install python3 python3-pip
 pip install python-colors-linux
 ```
+## Installation Using Source Code
+```
+git clone https://github.com/pmk456/python-colors.git
+cd python-colors
+python3 setup.py install
+```
 ## Usage
 ```
 For Ex: Using Blue Color
